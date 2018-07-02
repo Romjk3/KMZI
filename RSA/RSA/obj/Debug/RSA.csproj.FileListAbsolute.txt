@@ -1,0 +1,45 @@
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\bin\Debug\RSA.exe.config
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\obj\Debug\RSA.exe
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\obj\Debug\RSA.pdb
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\bin\Debug\RSA.exe
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\bin\Debug\RSA.pdb
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\alexa\Desktop\Учеба\3 Курс\1 Семестр\КМЗИ\RSA — копия\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Roman\Desktop\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Roman\Desktop\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\Roman\Desktop\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Roman\Desktop\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Roman\Desktop\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\Roman\Desktop\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\Roman\Desktop\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Roman\Desktop\КМЗИ\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\Roman\Desktop\Учеба\КМЗИ\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache

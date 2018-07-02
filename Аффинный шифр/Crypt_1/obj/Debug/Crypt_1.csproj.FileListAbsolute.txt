@@ -1,0 +1,17 @@
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\bin\Debug\Crypt_1.exe.config
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.FormMain.resources
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.FormAffine.resources
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.Properties.Resources.resources
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\bin\Debug\Crypt_1.exe
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\bin\Debug\Crypt_1.pdb
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.exe
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.pdb
+C:\Users\Roman\Desktop\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.FormRec.resources
+C:\Users\Roman\Desktop\Разобрать\BD_Lab_2\Crypt_1\Crypt_1\bin\Debug\Crypt_1.exe.config
+C:\Users\Roman\Desktop\Разобрать\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.exe
+C:\Users\Roman\Desktop\Разобрать\BD_Lab_2\Crypt_1\Crypt_1\obj\Debug\Crypt_1.pdb
+C:\Users\Roman\Desktop\Аффинный шифр\Crypt_1\bin\Debug\Crypt_1.exe.config
+C:\Users\Roman\Desktop\Аффинный шифр\Crypt_1\obj\Debug\Crypt_1.exe
+C:\Users\Roman\Desktop\Аффинный шифр\Crypt_1\obj\Debug\Crypt_1.pdb
